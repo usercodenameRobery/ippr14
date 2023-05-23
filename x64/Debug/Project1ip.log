@@ -1,0 +1,10 @@
+﻿  Source1.cpp
+  Source2.cpp
+  Source3.cpp
+  Source4.cpp
+  Создание кода...
+Source1.obj : error LNK2005: main уже определен в Source.obj
+Source2.obj : error LNK2005: main уже определен в Source.obj
+Source3.obj : error LNK2005: main уже определен в Source.obj
+Source4.obj : error LNK2005: main уже определен в Source.obj
+C:\Soft.vs studio\Project1ip\x64\Debug\Project1ip.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
